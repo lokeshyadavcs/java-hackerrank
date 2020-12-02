@@ -20,6 +20,7 @@ Sample Output
 Hello, World.
 Hello, Java.
 */
+package introduction;
 
 public class Solution1 {
 

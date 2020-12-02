@@ -37,7 +37,7 @@ Sample Output
 100
 125
 */
-
+package introduction;
 import java.util.*;
 
 public class Solution2 {
